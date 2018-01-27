@@ -8,7 +8,7 @@ scapy库可以很方便地实现跨平台的网络嗅探、网络发包等需求
 ## 现有工具
 |工具名称|编程语言|作用|索引
 |-------|-------|---|---|
-|scapy|||https://github.com/secdev/scapy/|
+|scapy|python|发送，嗅探并剖析和伪造的网络数据包|[Github](https://github.com/secdev/scapy/)|
 |hping||||
 |nmap||||
 |arpspoof||||
