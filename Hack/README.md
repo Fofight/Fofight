@@ -19,3 +19,6 @@ scapy库可以很方便地实现跨平台的网络嗅探、网络发包等需求
 |p0f||||
 |wireshark||||
 |tshark||||
+|IDAPython||||
+|Immunity Debugger||||
+|Volatility|纯python|内存取证分析工具||
