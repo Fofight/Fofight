@@ -1,4 +1,9 @@
 |库名称|释|python版本|是否pip安装|
 |-----|--|----------|---------|
 |distorm3|反编译库|2，3|True|
-|yara恶意软件分类工具|
+|yara|恶意软件分类工具||True|
+|pycrypto|加密工具集||True|
+|pil|图片处理库||True|
+|openpyxl|读写excel文件||True|
+|ujson|json解析||True|
+
