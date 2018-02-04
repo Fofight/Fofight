@@ -8,7 +8,8 @@
 |-------|-------|---|-------|------------|--|----|
 |acccheck|||||破解使用SMB协议的Windows用户密码|
 |ace-voip|||||
-, 'amap', 'automater', 'braa', 'casefile', 'cdpsnarf', 'cisco-torch', 
+
+amap', 'automater', 'braa', 'casefile', 'cdpsnarf', 'cisco-torch', 
 	'cookie-cadger', 'copy-router-config', 'dmitry', 'dnmap', 'dnsenum', 'dnsmap', 'dnsrecon',
 	'dnstracer', 'dnswalk', 'dotdotpwn', 'enum4linux', 'enumiax', 'fierce', 'firewalk', 'fragroute',
 	'fragrouter', 'ghost-phisher', 'golismero', 'goofile', 'xplico', 'hping3', 'intrace', 'ismtp',
