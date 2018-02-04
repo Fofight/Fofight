@@ -9,5 +9,7 @@
 |vuln|[search](https://github.com/search?l=Python&q=vuln&type=Repositories&utf8=%E2%9C%93)||||
 |木马|[search](https://github.com/search?l=Python&q=%E6%9C%A8%E9%A9%AC&type=Repositories&utf8=%E2%9C%93)|||
 |口令破解|[search](https://github.com/search?l=Python&q=%E5%8F%A3%E4%BB%A4%E7%A0%B4%E8%A7%A3&type=Repositories&utf8=%E2%9C%93)|||
+|backdoor|[search](https://github.com/search?l=Python&q=backdoor&type=Repositories&utf8=%E2%9C%93)|||
+|后门|[search](https://github.com/search?utf8=%E2%9C%93&q=%E5%90%8E%E9%97%A8&type=Repositories)||||
 
 
