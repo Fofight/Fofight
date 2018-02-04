@@ -1,5 +1,6 @@
-这是关于kali linux系统自带的工具的初步测试汇总
-#!/usr/bin/env python
+# 这是关于kali linux系统自带的工具的初步测试汇总
+相似项目[katoolin](https://github.com/LionSec/katoolin),[Github search](https://github.com/search?l=Python&q=kali+linux&type=Repositories&utf8=%E2%9C%93)
+
 
 
 # 1.information_gathering
