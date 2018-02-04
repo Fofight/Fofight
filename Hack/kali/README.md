@@ -3,9 +3,9 @@
 
 
 
-# 1.information_gathering
-|工具名称|编写语言|索引|使用方法|操作系统/平台|
-|-------|-------|---|-------|------------|
+# 1.information_gathering（信息收集）
+|工具名称|编写语言|索引|使用方法|操作系统/平台|释|
+|-------|-------|---|-------|------------|--|
 |acccheck|||||
 |ace-voip|||||
 , 'amap', 'automater', 'braa', 'casefile', 'cdpsnarf', 'cisco-torch', 
