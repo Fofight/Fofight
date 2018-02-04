@@ -6,6 +6,7 @@
 |病毒|[search](https://github.com/search?l=Python&q=%E7%97%85%E6%AF%92&type=Repositories&utf8=%E2%9C%93)||python||
 |漏洞|||||
 |漏洞扫描||||
-|vuln|||||
+|vuln|[search](https://github.com/search?l=Python&q=vuln&type=Repositories&utf8=%E2%9C%93)||||
+|木马|[search](https://github.com/search?l=Python&q=%E6%9C%A8%E9%A9%AC&type=Repositories&utf8=%E2%9C%93)|||
 
 
