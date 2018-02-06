@@ -1,13 +1,15 @@
 # 这是关于kali linux系统自带的工具的初步测试汇总
 相似项目[katoolin](https://github.com/LionSec/katoolin),[Github search](https://github.com/search?l=Python&q=kali+linux&type=Repositories&utf8=%E2%9C%93)
 
+[kali](https://tools.kali.org/tools-listing)
+
 
 
 # 1.information_gathering（信息收集）
 |工具名称|编写语言|索引|使用方法|操作系统/平台|释| 作用|
 |-------|-------|---|-------|------------|--|----|
 |acccheck|||||破解使用SMB协议的Windows用户密码|
-|ace-voip|||||
+|ace-voip||||VoIP目录枚举工具|
 
 amap', 'automater', 'braa', 'casefile', 'cdpsnarf', 'cisco-torch', 
 	'cookie-cadger', 'copy-router-config', 'dmitry', 'dnmap', 'dnsenum', 'dnsmap', 'dnsrecon',
