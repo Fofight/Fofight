@@ -1,5 +1,5 @@
 # 这是关于kali linux系统自带的工具的初步测试汇总
-相似项目[katoolin](https://github.com/LionSec/katoolin),[Github search](https://github.com/search?l=Python&q=kali+linux&type=Repositories&utf8=%E2%9C%93)
+相似项目[katoolin](https://github.com/LionSec/katoolin),[Github search](https://github.com/search?l=Python&q=kali+linux&type=Repositories&utf8=%E2%9C%93),[freebuf](http://www.freebuf.com/column/150118.html)
 
 [kali](https://tools.kali.org/tools-listing)
 
@@ -11,8 +11,9 @@
 |acccheck|||||破解使用SMB协议的Windows用户密码|
 |ace-voip||[kali](https://tools.kali.org/information-gathering/ace-voip)||||VoIP目录枚举工具|
 |amap||||||服务枚举工具|
+|automater|||||||
 
-automater', 'braa', 'casefile', 'cdpsnarf', 'cisco-torch', 
+braa', 'casefile', 'cdpsnarf', 'cisco-torch', 
 	'cookie-cadger', 'copy-router-config', 'dmitry', 'dnmap', 'dnsenum', 'dnsmap', 'dnsrecon',
 	'dnstracer', 'dnswalk', 'dotdotpwn', 'enum4linux', 'enumiax', 'fierce', 'firewalk', 'fragroute',
 	'fragrouter', 'ghost-phisher', 'golismero', 'goofile', 'xplico', 'hping3', 'intrace', 'ismtp',
