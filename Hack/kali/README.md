@@ -11,9 +11,10 @@
 |acccheck|||||破解使用SMB协议的Windows用户密码|
 |ace-voip||[kali](https://tools.kali.org/information-gathering/ace-voip)||||VoIP目录枚举工具|
 |amap||||||服务枚举工具|
-|automater|||||||
+|automater||[kali](https://tools.kali.org/information-gathering/automater)|||||
+|braa|||||
 
-braa', 'casefile', 'cdpsnarf', 'cisco-torch', 
+casefile', 'cdpsnarf', 'cisco-torch', 
 	'cookie-cadger', 'copy-router-config', 'dmitry', 'dnmap', 'dnsenum', 'dnsmap', 'dnsrecon',
 	'dnstracer', 'dnswalk', 'dotdotpwn', 'enum4linux', 'enumiax', 'fierce', 'firewalk', 'fragroute',
 	'fragrouter', 'ghost-phisher', 'golismero', 'goofile', 'xplico', 'hping3', 'intrace', 'ismtp',
