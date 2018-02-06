@@ -10,7 +10,7 @@
 |-------|-------|---|-------|------------|--|----|
 |acccheck|||||破解使用SMB协议的Windows用户密码|
 |ace-voip||[kali](https://tools.kali.org/information-gathering/ace-voip)||||VoIP目录枚举工具|
-|amap|||||||
+|amap||||||服务枚举工具|
 
 automater', 'braa', 'casefile', 'cdpsnarf', 'cisco-torch', 
 	'cookie-cadger', 'copy-router-config', 'dmitry', 'dnmap', 'dnsenum', 'dnsmap', 'dnsrecon',
