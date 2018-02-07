@@ -7,3 +7,12 @@
 |风暴蠕虫|||受远程控制的僵尸计算机（或直译机器人网络）组成的网络||||
 |Energetic Bear||||||
 |Morris worm|||||
+|ILOVEYOU|||||
+|Nimda|||||
+|Code Red|||||
+|Melissa|||||
+|MSBlast|||||
+|Sobig||||
+|Nuwar(Storm Worm)||||
+|Michelangelo||||
+|Jerusalem|||||||
