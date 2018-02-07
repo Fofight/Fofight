@@ -3,4 +3,11 @@
 |-------|-------|-------|-------|---|---|
 |masscan|C|||[Github](https://github.com/robertdavidgraham/masscan)|号称5分钟扫遍互联网|
 |zmap||||号称1小时扫遍互联网|
+|nmap|||||
+|Netcat||||||
+|Strobe||||
+|Unicornscan|||||
+|Zenmap||||
+|nast||||
+|Knocker||||
 
