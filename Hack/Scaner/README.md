@@ -12,3 +12,12 @@
 |Knocker||||
 |topera||||||
 
+
+关键字
+TCP扫描：
+    1.TCP connect scan
+    2.TCP SYN scan
+    3.
+    
+ack扫描：
+
