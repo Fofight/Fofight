@@ -18,7 +18,10 @@ TCP扫描：
 
     1.TCP connect scan
     2.TCP SYN scan
-    3.
+    3.TCP FIN
+    4.TCP reverse ident 
+    5.TCP Xmas TREE
+    6.TCP NULL
     
 ack扫描：
 
