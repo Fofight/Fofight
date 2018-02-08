@@ -11,9 +11,13 @@
 |nast||||
 |Knocker||||
 |topera||||||
+|Scanline||||||
+|SuperScan|||||
+|X-Scan|||||
+|WSCAN||||
+|流光|||||
 
 
-关键字
 TCP扫描：
 
     1.TCP connect scan
@@ -22,6 +26,24 @@ TCP扫描：
     4.TCP reverse ident 
     5.TCP Xmas TREE
     6.TCP NULL
+   
+UDP扫描：
+    
+    1.UDP ICMP端口不可达扫描
+    2.UDP recvfrom()和write()扫描
+    
+其他扫描：
+
+    分片扫描 
+    FTP跳转扫描
+    GOOGLE特殊搜索
+    Metasploit
+    Dsniff嗅探式工具
+    WebShell 服务器木马嗅探工具
+    WINNTAutoAttack
+    啊D网络工具包
+    
+    
     
 ack扫描：
 
