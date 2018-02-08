@@ -1,4 +1,6 @@
-# 端口扫描工具
+# 端口扫描
+![](https://github.com/DataAnalysisTeam/Fofight/blob/master/Hack/Scaner/%E7%AB%AF%E5%8F%A3%E6%89%AB%E6%8F%8F.jpg?raw=true)
+# 端口扫描工
 |工具名称|编写语言|实现功能|实现原理|索引|释|
 |-------|-------|-------|-------|---|---|
 |masscan|C|||[Github](https://github.com/robertdavidgraham/masscan)|号称5分钟扫遍互联网|
