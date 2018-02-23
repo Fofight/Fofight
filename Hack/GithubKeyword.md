@@ -19,3 +19,4 @@
 |post exploitation|[search](https://github.com/search?l=Python&o=desc&q=post+exploitation&s=stars&type=Repositories&utf8=%E2%9C%93)|
 |crack|[search](https://github.com/search?l=Python&q=crack&type=Repositories&utf8=%E2%9C%93)||
 |敏感信息|[search](https://github.com/search?l=Python&o=desc&q=%E6%95%8F%E6%84%9F%E4%BF%A1%E6%81%AF&s=stars&type=Repositories&utf8=%E2%9C%93)||
+|Sensitiv|[search](https://github.com/search?l=Python&q=Sensitive+&type=Repositories&utf8=%E2%9C%93)|||
