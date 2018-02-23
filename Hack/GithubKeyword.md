@@ -16,6 +16,5 @@
 |security|[search](https://github.com/search?l=Python&o=desc&q=Security&s=stars&type=Repositories&utf8=%E2%9C%93)||||
 |botnet|[search](https://github.com/search?l=Python&o=desc&q=botnet&s=stars&type=Repositories&utf8=%E2%9C%93)|||
 |phishing|[search](https://github.com/search?l=Python&o=desc&q=phishing&s=stars&type=Repositories&utf8=%E2%9C%93)||||
-|post exploitation|[search](https://github.com/search?l=Python&o=desc&q=post+exploitation&s=stars&type=Repositories&utf8=%E2%9C%93)||
-
-
+|post exploitation|[search](https://github.com/search?l=Python&o=desc&q=post+exploitation&s=stars&type=Repositories&utf8=%E2%9C%93)|
+|crack|[](https://github.com/search?l=Python&q=crack&type=Repositories&utf8=%E2%9C%93)||
