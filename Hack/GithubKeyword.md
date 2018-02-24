@@ -22,3 +22,4 @@
 |Sensitive|[search](https://github.com/search?l=Python&q=Sensitive+&type=Repositories&utf8=%E2%9C%93)|||
 |exploit|[search](https://github.com/search?l=Python&o=desc&q=exploit&s=stars&type=Repositories&utf8=%E2%9C%93)|||
 |Intrusion|[search](https://github.com/search?l=Python&o=desc&q=Intrusion&s=stars&type=Repositories&utf8=%E2%9C%93)|||
+|DDos|[search](https://github.com/search?l=Python&o=desc&q=ddos&s=stars&type=Repositories&utf8=%E2%9C%93)|||
