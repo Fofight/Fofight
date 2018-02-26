@@ -23,3 +23,4 @@
 |exploit|[search](https://github.com/search?l=Python&o=desc&q=exploit&s=stars&type=Repositories&utf8=%E2%9C%93)|||
 |Intrusion|[search](https://github.com/search?l=Python&o=desc&q=Intrusion&s=stars&type=Repositories&utf8=%E2%9C%93)|||
 |DDos|[search](https://github.com/search?l=Python&o=desc&q=ddos&s=stars&type=Repositories&utf8=%E2%9C%93)|||
+|渗透|[search](https://github.com/search?l=Python&o=desc&q=%E6%B8%97%E9%80%8F&s=stars&type=Repositories&utf8=%E2%9C%93)||
