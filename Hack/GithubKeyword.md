@@ -25,3 +25,4 @@
 |DDos|[search](https://github.com/search?l=Python&o=desc&q=ddos&s=stars&type=Repositories&utf8=%E2%9C%93)|||
 |渗透|[search](https://github.com/search?l=Python&o=desc&q=%E6%B8%97%E9%80%8F&s=stars&type=Repositories&utf8=%E2%9C%93)||
 |pwn|[search](https://github.com/search?l=Python&o=desc&q=pwn&s=stars&type=Repositories&utf8=%E2%9C%93)||
+|reverse|[search](https://github.com/search?l=Python&o=desc&q=reverse&s=stars&type=Repositories&utf8=%E2%9C%93)||
