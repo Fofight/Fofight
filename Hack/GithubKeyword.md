@@ -37,3 +37,4 @@
 |vxer|[search](https://github.com/search?utf8=%E2%9C%93&q=Vxer&type=Repositories)||
 |hack|[search](https://github.com/search?l=Python&o=desc&q=hack&s=stars&type=Repositories&utf8=%E2%9C%93)||||
 |hacker|[](https://github.com/search?l=Python&o=desc&q=hacker&s=stars&type=Repositories&utf8=%E2%9C%93)|||
+|黑客|[search](https://github.com/search?l=Python&o=desc&q=%E9%BB%91%E5%AE%A2&s=stars&type=Repositories&utf8=%E2%9C%93)|
