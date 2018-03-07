@@ -1,3 +1,5 @@
+[相似工作](https://github.com/ourren/malicious_corpus/blob/master/corpus/2gram_corpus.txt)
+
 |Github|link|释|编程语言||
 |-------|------|------|--------|-----|
 |conficker|[search](https://github.com/search?utf8=%E2%9C%93&q=conficker&type=Repositories)||python|
