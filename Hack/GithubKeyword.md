@@ -44,3 +44,4 @@
 |rat|[search](https://github.com/search?l=Python&o=desc&q=RAT&s=stars&type=Repositories&utf8=%E2%9C%93)|||
 |metadata|[searcch](https://github.com/search?l=Python&o=desc&q=Metadata&s=stars&type=Repositories&utf8=%E2%9C%93)|||
 |black hat|[search](https://github.com/search?l=Python&o=desc&q=Black+Hat&s=stars&type=Repositories&utf8=%E2%9C%93)||||
+|Anonymous|[search](https://github.com/search?l=Python&o=desc&q=Anonymous&s=stars&type=Repositories&utf8=%E2%9C%93)||||
