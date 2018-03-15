@@ -10,3 +10,5 @@ scapy库可以很方便地实现跨平台的网络嗅探、网络发包等需求
  
  
 [firehol](https://github.com/firehol):盾
+
+[Awesome-Hacking](https://github.com/Hack-with-Github/Awesome-Hacking)
