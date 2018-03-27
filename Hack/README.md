@@ -1,5 +1,5 @@
 # Fofight
-以Violent-Python这本书为起点，举一反三地学习
+以Violent-Python这本书为起点，大量阅读和参考其它相关资料，举一反三地学习
 Violent-Python中提到的例子源码[Violent-Python](https://github.com/shadow-box/Violent-Python-Examples)
 
 scapy库可以很方便地实现跨平台的网络嗅探、网络发包等需求
