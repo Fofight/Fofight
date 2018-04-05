@@ -4,7 +4,7 @@ Violent-Python中提到的例子源码[Violent-Python](https://github.com/shadow
 
 [《python黑帽子：黑客与渗透测试编程之道》](https://github.com/giantbranch/python-hacker-code)
 
-[ python灰帽子--黑客与逆向工程师的Python编程之道](https://github.com/giantbranch/gray-hat-python-src)
+[《python灰帽子--黑客与逆向工程师的Python编程之道》](https://github.com/giantbranch/gray-hat-python-src)
 
 scapy库可以很方便地实现跨平台的网络嗅探、网络发包等需求
 
