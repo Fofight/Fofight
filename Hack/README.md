@@ -2,6 +2,8 @@
 以Violent-Python这本书为起点，大量阅读和参考其它相关资料，举一反三地学习
 Violent-Python中提到的例子源码[Violent-Python](https://github.com/shadow-box/Violent-Python-Examples)
 
+[《python绝技:运用python成为顶级黑客》](https://github.com/shadow-box/Violent-Python-Examples)
+
 [《python黑帽子：黑客与渗透测试编程之道》](https://github.com/giantbranch/python-hacker-code)
 
 [《python灰帽子--黑客与逆向工程师的Python编程之道》](https://github.com/giantbranch/gray-hat-python-src)
